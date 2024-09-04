@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS tweets, follows, users ;
+DROP TABLE IF EXISTS follows, tweets, users ;
 
 -- create the users table
 CREATE TABLE users (
